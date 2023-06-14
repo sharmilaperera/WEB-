@@ -1,0 +1,155 @@
+@charset "utf-8";
+.container-fluid {
+    background-color: #DAAA71;
+    background-image: url(images/12.jpg);
+}
+.row .col-md-6 p {
+    color: #1A1818;
+}
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    color: #F4CBA2;
+    background-color: #C0A97E;
+}
+.carousel-item.active .carousel-caption h5 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: oblique;
+    font-variant: normal;
+    font-weight: 100;
+    font-size: large;
+}
+.container-fluid .container .text-center {
+    color: #FBF9F9;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: italic;
+    font-weight: 300;
+    text-decoration: none;
+    text-indent: 100px;
+    text-shadow: 1px 0px 10px;
+    letter-spacing: 2px;
+}
+
+.container-fluid .container .row {
+}
+.row .col-md-4 .card.col-md-12 {
+    background-image: url(images/12.jpg);
+}
+.card.col-md-12 .card-body .card-text {
+    color: #FFFAFA;
+}
+
+
+
+
+.container .row .col-md-4 {
+}
+
+.card.col-md-12 .card-body .card-text {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    text-align: center;
+}
+.container footer .row {
+    background-color: #000000;
+    background-image: url(images/background2.jpg);
+}
+.container-fluid .container .text-center {
+    font-variant: normal;
+    text-shadow: 1px 2px 2px;
+    font-weight: bold;
+}
+
+.row .col-md-6 p {
+    color: #090909;
+    font-weight: 900;
+}
+
+.row .col-md-6 .img-fluid.rounded-circle {
+    text-align: right;
+    float: left;
+    clear: left;
+    visibility: inherit;
+}
+
+footer .row .col-md-6 {
+    text-align: right;
+
+
+
+}
+
+
+.card.col-md-12 .card-body .card-title {
+    color: #D98727;
+    border-color: #0D0D0D;
+    border-width: thick;
+    font-style: oblique;
+}
+footer .row .col-md-6 {
+    color: #F0E5E5;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-weight: 100;
+    font-size: 90%;
+    text-shadow: 0px 0px 1px #C9B542;
+    word-spacing: 2px;
+}
+.container #accordion1 .card {
+    background-color: #E9B8B9;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    color: #941D1F;
+}
+#headingOne1 .mb-0 a {
+    color: #090909;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #0F0C0D;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #000000;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.container-fluid .container #carouselExampleIndicators1 {
+    background-image: url(images/12.jpg);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: url(images/background2.jpg);
+}
+.container-fluid .container a {
+}
+
+.container-fluid .container a {
+    color: #6C7FEF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+.container-fluid .container p {
+    color: #2D2B2E;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 .navbar-nav.mr-auto {
+    color: #0C0909;
+    font-weight: 800;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+}
+
+
+
+.container-fluid .container .text-center {
+    color: #E6EDED;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+    font-variant: normal;
+    text-shadow: 1px 0px 1px;
+}
+.container-fluid .container h3 {
+    color: #7DDFE7;
+    font-style: oblique;
+    font-variant: normal;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-align: center;
+}
